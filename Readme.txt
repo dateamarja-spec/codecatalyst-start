@@ -1,6 +1,5 @@
 If you want a README for a project named **codecatalyst-start**, here's a professional template you can use and customize.
 I'll provide it as a reusable document.
-
 # codecatalyst-start
 
 A starter project for working with Git repositories and Amazon CodeCatalyst/GitHub workflows. This project demonstrates basic Git operations such as cloning, creating files, committing changes, and pushing updates to a remote repository.
